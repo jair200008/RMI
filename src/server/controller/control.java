@@ -1,4 +1,8 @@
 package server.controller;
-public class control {
+public class Control {
+
+    public void init(){
+
+    }
     
 }
